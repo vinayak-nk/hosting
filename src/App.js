@@ -1,8 +1,9 @@
+import ReactRouter from './ReactRouter'
 
 function App() {
   return (
     <div className="App">
-      Learn hoisting...
+      <ReactRouter />
     </div>
   );
 }
